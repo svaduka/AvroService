@@ -1,4 +1,4 @@
-package com.inetsolv;
+package com.avroservice;
 
 import org.apache.avro.Schema;
 
